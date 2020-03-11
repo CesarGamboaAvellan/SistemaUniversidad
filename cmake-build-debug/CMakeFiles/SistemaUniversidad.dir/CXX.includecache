@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ff_cesar/CLionProjects/SistemaUniversidad/Menu.cpp
+Menu.h
+/Users/ff_cesar/CLionProjects/SistemaUniversidad/Menu.h
+iostream
+-
+iomanip
+-
+
+/Users/ff_cesar/CLionProjects/SistemaUniversidad/Menu.h
+
